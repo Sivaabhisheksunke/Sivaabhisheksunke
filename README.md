@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Hire%20Me-Available%20Now-success?style=for-the-badge&logo=handshake" />
 </a>
 
-<a href="[https://drive.google.com/your-resume-link](https://drive.google.com/file/d/1wPHbUwgBwszoMftq2jqM7At5_hcMQN0I/view?usp=sharing)">
+<a href="https://drive.google.com/file/d/1wPHbUwgBwszoMftq2jqM7At5_hcMQN0I/view?usp=sharing">
   <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=googledrive" />
 </a>
 
