@@ -55,36 +55,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/Sivaabhisheksunke/pharma-analytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sivaabhisheksunke&repo=pharma-analytics&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Sivaabhisheksunke/credit-card-analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sivaabhisheksunke&repo=credit-card-analysis&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Sivaabhisheksunke/meta-ads-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sivaabhisheksunke&repo=meta-ads-dashboard&theme=tokyonight" />
-</a>
-
-</p>
-
----
-
-## 📊 Live Dashboards
-
-🔹 Pharmaceutical Sales Dashboard  
-👉 https://app.powerbi.com/your-dashboard-link  
-
-🔹 Credit Card Analytics Dashboard  
-👉 https://app.powerbi.com/your-dashboard-link  
-
----
-
 ## 🏆 Certifications
 
 - AWS Certified AI Practitioner  
