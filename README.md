@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=googledrive" />
 </a>
 
-<a href="https://your-portfolio-link.com">
+<a href="[https://your-portfolio-link.com](https://main.d3jp4b9ogwbjp5.amplifyapp.com/)">
   <img src="https://img.shields.io/badge/Portfolio-Live%20Projects-blue?style=for-the-badge&logo=web" />
 </a>
 
