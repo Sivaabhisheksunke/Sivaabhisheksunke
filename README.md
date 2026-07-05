@@ -1,6 +1,5 @@
-
 <!-- 🔍 SEO KEYWORDS (HIDDEN) -->
-<!-- keywords: Data Analyst, Data Engineer, AWS, Python, SQL, Power BI, Azure, ETL, Cloud Engineer, Data Science, Business Intelligence, Data Pipelines -->
+<!-- keywords: Data Analyst, Data Engineer, AWS, Python, SQL, Power BI, Machine Learning, ETL, Cloud Data Engineering, Business Intelligence, Data Pipelines -->
 
 <!-- 🌊 HEADER BANNER -->
 <p align="center">
@@ -9,18 +8,22 @@
 
 <!-- ⌨️ TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Cloud+Engineer+in+the+Making;AWS+%7C+Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Business+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst+%7C+Cloud+Data+Engineer;AWS+%7C+Python+%7C+SQL+%7C+Power+BI+%7C+ML;Building+ETL+Pipelines+and+Data-Driven+Solutions" />
 </p>
 
 <!-- 🚀 CTA BUTTONS -->
 <p align="center">
 
 <a href="mailto:abhisheksunke03@gmail.com">
-  <img src="https://img.shields.io/badge/Hire%20Me-Available%20Now-success?style=for-the-badge&logo=handshake" />
+  <img src="https://img.shields.io/badge/Hire%20Me-Open%20to%20Opportunities-success?style=for-the-badge&logo=handshake" />
 </a>
 
 <a href="https://drive.google.com/file/d/1wPHbUwgBwszoMftq2jqM7At5_hcMQN0I/view?usp=sharing">
-  <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=googledrive" />
+  <img src="https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=googledrive" />
+</a>
+
+<a href="https://your-portfolio-link.com">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Projects-blue?style=for-the-badge&logo=web" />
 </a>
 
 </p>
@@ -29,29 +32,41 @@
 
 ## 💫 About Me
 
-👋 I’m an aspiring **Data Analyst & Cloud Associate** pursuing B.Tech in AI & Data Science.
+👋 I’m an **Aspiring Data Analyst & Cloud Data Engineer** pursuing B.Tech in **AI & Data Science (Honors)** with a **CGPA of 9.27/10**.
 
-💡 I specialize in building **cloud-based data engineering pipelines** and transforming raw data into meaningful insights using **AWS, Python, SQL, and Power BI**.
+💡 I specialize in designing **end-to-end data pipelines, ETL workflows, and cloud-based analytics systems** using **AWS, Python, and SQL**.
 
-🚀 Passionate about solving real-world problems in **Finance, Healthcare, and Digital Analytics** using data-driven solutions.
+🚀 I apply **Machine Learning (Regression, Classification, Clustering)** and analytics techniques to extract insights from real-world datasets across **Finance, Healthcare, and Digital Media**.
 
 ---
 
-## 🌐 Portfolio Website
+## 📌 What I Do
 
-🚀 Explore my work here:  
-👉 https://your-portfolio-link.com  
+- 🔹 Build scalable **ETL pipelines using AWS (Lambda, Glue, S3, Athena)**
+- 🔹 Create interactive **Power BI dashboards (DAX, Power Query)**
+- 🔹 Perform **data analysis using SQL + Python**
+- 🔹 Apply **Machine Learning for predictive insights**
+- 🔹 Design **data models and Star Schema architectures**
+- 🔹 Automate reporting and business KPIs
 
 ---
 
 ## 🧠 Core Skills
 
-- Python, SQL, Pandas, NumPy  
-- AWS (Lambda, Glue, S3, Athena, QuickSight)  
-- Azure Fundamentals  
-- Power BI (DAX, Power Query)  
-- ETL Pipelines, Data Visualization  
-- Git, GitHub  
+**Programming & Analysis**  
+Python (Pandas, NumPy, Scikit-learn), SQL (MySQL)
+
+**Machine Learning**  
+Regression, Classification, Clustering, Predictive Analytics, EDA
+
+**Cloud & Data Engineering**  
+AWS Lambda, Glue, S3, Athena, QuickSight, ETL Pipelines, Data Lake
+
+**BI & Visualization**  
+Power BI (DAX, Power Query, Data Modeling), Matplotlib, Seaborn
+
+**Tools**  
+Git, GitHub, Jupyter Notebook, VS Code, Google Colab
 
 ---
 
@@ -77,6 +92,16 @@
 
 ---
 
+## 🌟 Featured Strength
+
+<p align="center">
+
+💡 Turning raw data into **business insights, predictive models, and scalable cloud pipelines**
+
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -88,15 +113,5 @@
 
 ---
 
-## ✨ Closing Line
-
-<div align="center">
-
-💡 “Turning raw data into meaningful stories that drive business decisions”
-
-</div>
-
-<!-- 🔐 EXTRA SEO BOOST -->
-<!-- Data Analyst AWS Python SQL Power BI Azure ETL Data Engineer Business Intelligence -->
-
-<!-- END -->
+<!-- 🔐 SEO BOOST -->
+<!-- Data Analyst AWS Python SQL Power BI ETL Machine Learning Data Engineer Cloud Data Engineering Business Intelligence -->
